@@ -6,7 +6,7 @@ subtitle: Research Scientist at <a href='https://www.nalbi.ai'>Nalbi</a>
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: prof_ty.jpeg
   image_circular: true # crops the image to make it circular
   address: 
 
