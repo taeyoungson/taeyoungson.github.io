@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Scientist at <a href='https://www.nalbi.ai'>Nalbi</a>
+subtitle: Research Scientist at <a href='https://www.nalbi.ai'>NALBI</a>
 
 profile:
   align: left

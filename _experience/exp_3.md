@@ -1,11 +1,12 @@
 ---
 layout: post
-start_end: "June, 2018 - Sep, 2018"
+start_end: "April, 2022 - Present"
 inline: true
 ---
 
-[Hyperconnect](https://hyperconnect.com), Seoul, South Korea \
-*Machine Learning Engineer*
+[NALBI](https://nalbi.ai), Seoul, South Korea \
+*Research Scientist*
 
-- Research Scientist Internship on image enhancement.
-- Devised an algorithm (Neural Network) to generate image-to-image look-up-table for differentiable image beautification
+- Led the design and implementation of a single-view 3D body mesh reconstruction algorithm, which deployed to Actionman.
+- Led the design and implementation of automated SMPL annotation pipeline from a motion capture suit, for dataset creation. 
+- Leading the development of multi-view 3D body mesh reconstruction algorithm.
