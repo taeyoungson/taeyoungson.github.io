@@ -101,18 +101,18 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Taeyoung's blog page # blog_name will be displayed in your blog page
+blog_name: Blog # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: 여기다가 뭐라고 적죠?
 permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  # enabled: true
-  enabled: false
+  enabled: true
+  # enabled: false
 
 # Comments
-disqus_shortname: namyupkim # put your disqus shortname
+disqus_shortname: taeyoungson # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
