@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Scientist at <a href='https://www.nalbi.ai'>NALBI</a>
+subtitle: Machine Learning Engineer at <a href='https://www.ridicorp.com'>RIDI</a>
 
 profile:
   align: left
@@ -22,4 +22,4 @@ I completed my Master's Degree at <a href='https://cvlab.postech.ac.kr'>Computer
 
 My interests include artifical intelligence, machine learning, computer vision, and software design and development.
 Research experiences contain domain adaptation and generalization, 3D human mesh reconstruction, image recognition under extreme condition(*e.g., rain, frost, snow and etc*).
-I am currently a research scientist at <a href='https://www.nalbi.ai'>NALBI</a>, mainly doing research and development over 3D human mesh reconstruction algorithm taking part in *<a href='https://actionman.ai'>Actionman</a>*
+I am currently a machine learning engineer at <a href='https://www.ridicorp.com'>RIDI</a>.
