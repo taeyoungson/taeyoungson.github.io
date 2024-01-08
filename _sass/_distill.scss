@@ -7,7 +7,7 @@ d-byline {
 }
 
 d-byline h3 {
-  color: var(--global-text-color) !important;
+  color: var(--oragne-color) !important;
 }
 
 d-byline a, d-article d-byline a {
@@ -106,6 +106,7 @@ d-article {
     }
     .figcaption {
       line-height: 1.4em;
+      color: var(--global-footer-text-color) !important;
     }
     toc-line {
       border-right: 1px solid var(--global-divider-color);
@@ -130,6 +131,10 @@ d-appendix {
       color: var(--global-hover-color) !important;
     }
   }
+}
+
+nav[data-toggle="toc"] {
+  top: 57px;
 }
 
 @media (max-width: 1024px) {
