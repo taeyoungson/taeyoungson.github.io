@@ -112,8 +112,20 @@ pagination:
   # enabled: false
 
 # Comments
-disqus_shortname: taeyoungson # put your disqus shortname
+# disqus_shortname: taeyoungson # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+giscus:
+  repo: taeyoungson/taeyoungson.github.io
+  repo_id: R_kgDOKP_TRA
+  category: Announcements
+  category_id: DIC_kwDOKP_TRM4CoOv3
+  mapping: pathname
+  strict: 0
+  reactions_enabled: 1
+  emit_metadata: 0
+  input_position: bottom
+  lang: ko
+  crossorigin: anonymous
 
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
