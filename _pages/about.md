@@ -23,3 +23,5 @@ I completed my Master's Degree at <a href='https://cvlab.postech.ac.kr'>Computer
 My interests include artifical intelligence, machine learning, computer vision, and software design and development.
 Research experiences contain generative AI, domain adaptation and generalization, 3D human mesh reconstruction, image recognition under extreme condition(*e.g., rain, frost, snow and etc*).
 I am currently a machine learning engineer at <a href='https://www.ridicorp.com'>RIDI</a>.
+
+I am a machine learning engineer who specializes in bridging the gap between state-of-the-art research and scalable, production-ready products. My work spans from recommendation systems and generative AI to computer vision, combining strong research experience with hands-on engineering expertise.

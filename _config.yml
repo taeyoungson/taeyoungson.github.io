@@ -102,13 +102,13 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Blog # blog_name will be displayed in your blog page
-blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: 여기다가 뭐라고 적죠?
-permalink: /blog/:year/:title/
+# blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+# blog_description: 
+# permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
   # enabled: false
 
 # Comments
@@ -142,7 +142,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /news/:path/
   projects:
     output: true
