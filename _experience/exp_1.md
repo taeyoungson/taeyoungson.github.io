@@ -4,8 +4,9 @@ start_end: "June, 2018 - Sep, 2018"
 inline: true
 ---
 
-[Hyperconnect](https://hyperconnect.com), Seoul, South Korea \
-*Machine Learning Engineer*
+[HyperConnect](https://hyperconnect.com), Seoul, South Korea \
+*Research Scientist Internship*
 
-- Research Scientist Internship on image enhancement.
-- Devised an algorithm (Neural Network) to generate image-to-image look-up-table for differentiable image beautification
+- Developed a model to generate Look-Up Tables (LUTs) for on-device camera beautification filters.
+- Implemented a web crawler to collect highly-rated images from Flickr.
+- Developed a pixel-wise LUT generator for image enhancement and color correction.

@@ -5,7 +5,9 @@ inline: true
 ---
 
 [NALBI](https://nalbi.ai), Seoul, South Korea \
-*Research Scientist*
+*AI Research Scientist*
 
-- Led the design and implementation of a single-view 3D body mesh reconstruction algorithm.
-- Led the development of multi-view 3D body mesh reconstruction algorithm.
+- Developed a real-time 3D human body reconstruction algorithm.
+- Implemented the Part Attention Regressor for 3D Human Body Estimation (PARE) model.
+- Automated SMPL annotation pipeline using ROKOKO motion capture equipment.
+- Optimized models for real-time inference on mobile and CPU-only environments.
