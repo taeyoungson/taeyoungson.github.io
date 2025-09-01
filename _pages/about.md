@@ -20,8 +20,4 @@ social: true  # includes social icons at the bottom of the page
 
 I completed my Master's Degree at <a href='https://cvlab.postech.ac.kr'>Computer Vision Laboratory</a> at the <a href='https://cse.postech.ac.kr'>Dept. of Computer Science and Engineering</a> of the <a href='https://postech.ac.kr'>POSTECH</a>, advised by <a href='https://suhakwak.github.io'>Prof. Suha Kwak</a>. I also did my BS at CSE of POSTECH.
 
-My interests include artifical intelligence, machine learning, computer vision, and software design and development.
-Research experiences contain generative AI, domain adaptation and generalization, 3D human mesh reconstruction, image recognition under extreme condition(*e.g., rain, frost, snow and etc*).
-I am currently a machine learning engineer at <a href='https://www.ridicorp.com'>RIDI</a>.
-
-I am a machine learning engineer who specializes in bridging the gap between state-of-the-art research and scalable, production-ready products. My work spans from recommendation systems and generative AI to computer vision, combining strong research experience with hands-on engineering expertise.
+I am a machine learning engineer specializing in bridging the gap between state-of-the-art research and scalable, production-ready products. My work spans recommendation systems, generative AI, and computer vision, combining strong research experience with hands-on engineering expertise. My interests include artificial intelligence, machine learning, computer vision, and software design and development. My research experiences encompass generative AI, domain adaptation and generalization, 3D human mesh reconstruction, and image recognition under extreme conditions (e.g., rain, frost, snow, etc.). I am currently a machine learning engineer at RIDI.
