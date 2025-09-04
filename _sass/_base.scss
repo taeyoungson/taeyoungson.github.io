@@ -39,6 +39,11 @@ figure, img {
   max-width: 90vw;
 }
 
+img.responsive {
+  max-width: 100%;
+  height: auto; // Maintain aspect ratio
+}
+
 blockquote {
   background: var(--global-bg-color);
   border-left: 2px solid var(--global-theme-color);
@@ -726,4 +731,11 @@ html.transition *:after {
 	font-size: 1rem;
     }
   }
+}
+
+
+.feature-image {
+  height: 250px; /* 원하는 높이로 조절하세요 */
+  width: 100%;
+  object-fit: cover;
 }
