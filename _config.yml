@@ -103,7 +103,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_nav_title: Posts # your blog must have a title for it to be displayed in the nav bar
 blog_name: Posts # blog_name will be displayed in your blog page
-blog_description: Collection of my posts
+blog_description: "Knowledge and insights gained from my work."
 display_tags: false
 permalink: /blog/:year/:title/
 
