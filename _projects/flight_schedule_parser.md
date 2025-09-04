@@ -62,3 +62,5 @@ For international flights, the system fetches weather forecasts for the destinat
 * **AI Features:** `OpenAI`
 * **Image Hosting:** `Imgbb`
 * **Weather Information:** `OpenWeather`
+
+The full source code is available on [GitHub](https://github.com/taeyoungson/flight-schedule-parser). 
